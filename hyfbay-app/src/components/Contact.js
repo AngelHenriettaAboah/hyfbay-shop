@@ -30,7 +30,7 @@ const Contact = () => {
         <img src={contactImage} alt="Contact" style={styles.contactImage} />
         <div>
           <p style={styles.contactDetails}>
-            You can contact us at contact@example.com
+            You can contact us at hyfbay@shop.com
           </p>
         </div>
       </div>
