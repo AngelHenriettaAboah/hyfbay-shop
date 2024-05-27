@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+![Demo 1](https://raw.githubusercontent.com/AngelHenriettaAboah/hyfbay-shop/main/hyfbay-app/src/components/Demo/demo4.png)
+![Demo 2](https://raw.githubusercontent.com/AngelHenriettaAboah/hyfbay-shop/main/hyfbay-app/src/components/Demo/demo3.png)
+![Demo 3](https://raw.githubusercontent.com/AngelHenriettaAboah/hyfbay-shop/main/hyfbay-app/src/components/Demo/demo2.png)
+![Demo 4](https://raw.githubusercontent.com/AngelHenriettaAboah/hyfbay-shop/main/hyfbay-app/src/components/Demo/demo1.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
